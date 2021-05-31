@@ -833,6 +833,7 @@ See also [Ticketing](#ticketing), [Task management/To-do lists](#task-management
   * [The Bug Genie](http://www.thebuggenie.com/) - Written in PHP.
   * [Trac](http://trac.edgewall.org/) - Written in python.
   * [Phproject](http://www.phproject.org/) - A high performance full-featured project management system. ([Demo](http://demo.phproject.org/), [Source Code](https://github.com/Alanaktion/phproject)) `GPLv3`
+  * [ZenTao](https://www.zentao.pm/book/zentaomanual/free-open-source-project-management-software-zentao-8.html) - An open source ALM tool. ([Demo](https://demo.zentao.pm/user-login.html), [Source Code](https://github.com/easysoft/zentaopms) `ZPL 1.2`
 
 
 ### Bug 跟踪
