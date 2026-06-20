@@ -782,6 +782,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 ## 代理
 
+  * [BibaVPN](https://github.com/Eljaja/BibaVPN) - Self-hosted SOCKS5 and HTTP CONNECT tunnel over TLS and WebSocket for single-VPS deployments. ([Source Code](https://github.com/Eljaja/BibaVPN)) `MIT` `Rust/Docker`
   * [microproxy](https://github.com/thekvs/microproxy) - lightweight non-caching HTTP/HTTPS proxy server. ([Source Code](https://github.com/thekvs/microproxy)) `MIT` `Go`
   * [miniProxy](https://github.com/joshdick/miniProxy/) - Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file. ([Source Code](https://github.com/joshdick/miniProxy/)) `GPLv3` `PHP`
   * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy. ([Source Code](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
