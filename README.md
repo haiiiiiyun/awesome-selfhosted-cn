@@ -201,6 +201,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code](https://github.com/mumble-voip/mumble)) `BSD` `C++`
     * [Mumblecop](https://bitbucket.org/Flandoo/mumblecop) - Stream audio from youtube and soundcloud, simulate dice rolls, or write your own commands with a simple plugin format. `MIT` `Ruby`
   * [Node-Chat](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. `MIT` `Nodejs`
+  * [qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - 面向 OneBot 11 / NapCat / LLOneBot 的自托管 QQ ↔ AI bridge，支持 ACP-compatible 本地 agent、会话持久化、进度回传与 Docker 演示栈。 `MIT` `Nodejs/Docker`
   * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
   * [Rocket.Chat](https://rocket.chat/) – Teamchat solution similar to Gitter.im or Slack. ([Source Code](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
   * [Synapse](https://matrix.org/blog/project/synapse/) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code](https://github.com/matrix-org/synapse)) `Apache` `Python`
