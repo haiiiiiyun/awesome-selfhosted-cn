@@ -389,6 +389,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Subrion](http://www.subrion.org) - Subrion is a free open source content management system that allows you to build websites for any purpose. Yes, from blog to corporate mega portal. ([Demo](http://demos.subrion.com), [Source Code](https://github.com/intelliants/subrion)) `GPLv3` `PHP`
   * [Textpattern](http://textpattern.com/) - A flexible, elegant and easy-to-use CMS. ([Demo](http://textpattern.co/demo), [Source Code](https://github.com/textpattern/textpattern)) `GPLv2` `PHP`
   * [TYPO3](https://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
+  * [UnfoldCMS](https://unfoldcms.com) - Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui, with REST API v1, HMAC webhooks, and headless mode for Next.js, Astro, SvelteKit, and Nuxt. ([Source Code](https://github.com/hpakdaman/unfoldcms)) `Source-Available` `PHP`
   * [Umbraco](https://umbraco.com/) - The friendly CMS. Free and open source with an amazing community. ([Source code](https://github.com/umbraco/Umbraco-CMS)) `MIT` `.NET`
   * [WordPress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source code mirror](https://github.com/WordPress/WordPress)) `GPLv2` `PHP`
 
