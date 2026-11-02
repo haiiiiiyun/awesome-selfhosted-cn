@@ -693,6 +693,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
+  * [Novel Smith](https://novel-forge-nu.vercel.app/) - 本地优先的 AI 网文写作工坊：内置「去 AI 味检测」（免 API Key、数据不出本机），覆盖大纲、正文、质量分析与一键润色。([Source Code](https://github.com/huanweide/novel-smith)) `MIT` `TypeScript`
 ## 办公套件
 
   * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. ([Source code](https://github.com/audreyt/ethercalc) `CPALv1/Other` `Nodejs`
@@ -1036,3 +1037,10 @@ The list of authors can be found [here](AUTHORS).
 ## 许可
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+
+---
+
+## 作者
+
+由 **huanweide** 维护 · [GitHub 主页](https://github.com/huanweide)
+
